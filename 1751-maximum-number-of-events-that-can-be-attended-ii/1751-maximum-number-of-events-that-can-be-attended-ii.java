@@ -12,8 +12,14 @@ class Solution {
 
         int skip = helper(ind + 1, k, events, dp);
 
-        int nextIndex = findNext(events, events[ind][1]);
-        int take = events[ind][2] + helper(nextIndex, k - 1, events, dp);
+        int next = findNext(events, events[ind][1]);
+
+        // int next=ind+1;
+        // while(next<events.length && events[ind][1]>=events[next][0]){
+        //     next++;
+        // }
+
+        int take = events[ind][2] + helper(next, k - 1, events, dp);
 
         return dp[ind][k] = Math.max(take, skip);
     }
