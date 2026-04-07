@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0980-unique-paths-iii](https://github.com/Shashankrai30/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Shashankrai30/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Shashankrai30/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1473-paint-house-iii](https://github.com/Shashankrai30/LeetCode/tree/main/1473-paint-house-iii/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shashankrai30/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-minimum-falling-path-sum](https://github.com/Shashankrai30/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Shashankrai30/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Shashankrai30/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1473-paint-house-iii](https://github.com/Shashankrai30/LeetCode/tree/main/1473-paint-house-iii/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shashankrai30/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
