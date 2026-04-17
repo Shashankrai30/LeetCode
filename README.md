@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shashankrai30/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Shashankrai30/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0174-dungeon-game](https://github.com/Shashankrai30/LeetCode/tree/main/0174-dungeon-game/) | Hard |
+| [0198-house-robber](https://github.com/Shashankrai30/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Shashankrai30/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/Shashankrai30/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/Shashankrai30/LeetCode/tree/main/0494-target-sum/) | Medium |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Shashankrai30/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0120-triangle](https://github.com/Shashankrai30/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0174-dungeon-game](https://github.com/Shashankrai30/LeetCode/tree/main/0174-dungeon-game/) | Hard |
+| [0198-house-robber](https://github.com/Shashankrai30/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/Shashankrai30/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/Shashankrai30/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/Shashankrai30/LeetCode/tree/main/0494-target-sum/) | Medium |
