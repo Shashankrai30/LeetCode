@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Shashankrai30/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Shashankrai30/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Shashankrai30/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/Shashankrai30/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Shashankrai30/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/Shashankrai30/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
