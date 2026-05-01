@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shashankrai30/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shashankrai30/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Shashankrai30/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/Shashankrai30/LeetCode/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Shashankrai30/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Shashankrai30/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Dynamic Programming
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/Shashankrai30/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shashankrai30/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shashankrai30/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/Shashankrai30/LeetCode/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
