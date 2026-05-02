@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/Shashankrai30/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0494-target-sum](https://github.com/Shashankrai30/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Shashankrai30/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/Shashankrai30/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0724-find-pivot-index](https://github.com/Shashankrai30/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0741-cherry-pickup](https://github.com/Shashankrai30/LeetCode/tree/main/0741-cherry-pickup/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/Shashankrai30/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Shashankrai30/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Shashankrai30/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Shashankrai30/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/Shashankrai30/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Shashankrai30/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shashankrai30/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shashankrai30/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shashankrai30/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0594-longest-harmonious-subsequence](https://github.com/Shashankrai30/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Shashankrai30/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shashankrai30/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shashankrai30/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -111,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Shashankrai30/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Shashankrai30/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/Shashankrai30/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shashankrai30/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shashankrai30/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shashankrai30/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
@@ -146,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Shashankrai30/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/Shashankrai30/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shashankrai30/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Shashankrai30/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Queue
