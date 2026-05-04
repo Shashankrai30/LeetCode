@@ -222,4 +222,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Shashankrai30/LeetCode/tree/main/0796-rotate-string/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Shashankrai30/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Shashankrai30/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Shashankrai30/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Shashankrai30/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
