@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0025-reverse-nodes-in-k-group](https://github.com/Shashankrai30/LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shashankrai30/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shashankrai30/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [1669-merge-in-between-linked-lists](https://github.com/Shashankrai30/LeetCode/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
