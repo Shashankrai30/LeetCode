@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shashankrai30/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Shashankrai30/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0174-dungeon-game](https://github.com/Shashankrai30/LeetCode/tree/main/0174-dungeon-game/) | Hard |
+| [0189-rotate-array](https://github.com/Shashankrai30/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Shashankrai30/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Shashankrai30/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/Shashankrai30/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Shashankrai30/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shashankrai30/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shashankrai30/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/Shashankrai30/LeetCode/tree/main/0189-rotate-array/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Shashankrai30/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0189-rotate-array](https://github.com/Shashankrai30/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Shashankrai30/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Shashankrai30/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Greedy
