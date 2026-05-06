@@ -232,20 +232,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Shashankrai30/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Shashankrai30/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/Shashankrai30/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Shashankrai30/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Shashankrai30/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/Shashankrai30/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Shashankrai30/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/Shashankrai30/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Shashankrai30/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Shashankrai30/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/Shashankrai30/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
