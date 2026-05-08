@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Shashankrai30/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0338-counting-bits](https://github.com/Shashankrai30/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0980-unique-paths-iii](https://github.com/Shashankrai30/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1763-longest-nice-substring](https://github.com/Shashankrai30/LeetCode/tree/main/1763-longest-nice-substring/) | Easy |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/Shashankrai30/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shashankrai30/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/Shashankrai30/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Shashankrai30/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Shashankrai30/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shashankrai30/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -241,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/Shashankrai30/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Shashankrai30/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shashankrai30/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/Shashankrai30/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shashankrai30/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Shashankrai30/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shashankrai30/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -265,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/Shashankrai30/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Shashankrai30/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shashankrai30/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/Shashankrai30/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shashankrai30/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Shashankrai30/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shashankrai30/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
