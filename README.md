@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shashankrai30/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Shashankrai30/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Shashankrai30/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shashankrai30/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Shashankrai30/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Shashankrai30/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Shashankrai30/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Shashankrai30/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Shashankrai30/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Shashankrai30/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shashankrai30/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shashankrai30/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Shashankrai30/LeetCode/tree/main/0189-rotate-array/) | Medium |
@@ -245,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0025-reverse-nodes-in-k-group](https://github.com/Shashankrai30/LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shashankrai30/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Shashankrai30/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Shashankrai30/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shashankrai30/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1669-merge-in-between-linked-lists](https://github.com/Shashankrai30/LeetCode/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 ## Enumeration
