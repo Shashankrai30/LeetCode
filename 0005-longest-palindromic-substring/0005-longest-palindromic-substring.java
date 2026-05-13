@@ -3,34 +3,31 @@ class Solution {
         String ans="";
 
         for(int i=0;i<s.length();i++){
-            for(int j=i;j<s.length();j++){
-                String temp=s.substring(i,j+1);
-                if(ispallindrome(temp) && temp.length()>ans.length()){
-                    ans=temp;
-                }
+
+            String temp=expand(s,i,i);
+
+            if(temp.length()>ans.length()){
+                ans=temp;
             }
+
+            temp=expand(s,i,i+1);
+
+            if(temp.length()>ans.length()){
+                ans=temp;
+            }
+
         }
 
         return ans;
     }
 
-    boolean ispallindrome(String s){
-        int start=0;
-        int end=s.length()-1;
+    String expand(String s,int i,int j){
 
-        while(start<end){
-            char st=s.charAt(start);
-            char en=s.charAt(end);
-
-            if(st==en){
-                start++;
-                end--;
-            }
-            else{
-                return false;
-            }
+        while(i>=0 && j<s.length() && s.charAt(i)==s.charAt(j)){
+            i--;
+            j++;
         }
 
-        return true;
+        return s.substring(i+1,j);
     }
 }
