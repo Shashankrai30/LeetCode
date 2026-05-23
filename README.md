@@ -349,4 +349,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shashankrai30/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/Shashankrai30/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Shashankrai30/LeetCode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 <!---LeetCode Topics End-->
