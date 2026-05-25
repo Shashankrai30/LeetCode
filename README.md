@@ -354,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0197-rising-temperature](https://github.com/Shashankrai30/LeetCode/tree/main/0197-rising-temperature/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Shashankrai30/LeetCode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
+| [0620-not-boring-movies](https://github.com/Shashankrai30/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
 | [1075-project-employees-i](https://github.com/Shashankrai30/LeetCode/tree/main/1075-project-employees-i/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Shashankrai30/LeetCode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Shashankrai30/LeetCode/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
