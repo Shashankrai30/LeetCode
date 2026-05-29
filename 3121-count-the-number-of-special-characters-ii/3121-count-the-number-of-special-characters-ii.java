@@ -1,7 +1,7 @@
 class Solution {
     public int numberOfSpecialChars(String word) {
         HashSet<Character> set = new HashSet<>();
-        HashSet<Character> special = new HashSet<>();
+        // HashSet<Character> special = new HashSet<>();
         HashSet<Character> invalid = new HashSet<>();
 
         int count = 0;
@@ -15,9 +15,9 @@ class Solution {
                 char temp = (char)(ch - 'a' + 'A');
 
                 if (set.contains(temp)) {
-                    if (special.contains(temp)) {
+                    if (!invalid.contains(temp) && set.contains(ch)) {
                         count--;
-                        special.remove(temp);
+                        // special.remove(temp);
                     }
                     invalid.add(temp);
                 }
@@ -26,17 +26,15 @@ class Solution {
 
                 char temp = (char)(ch - 'A' + 'a');
 
-                if (set.contains(temp)
-                        && !special.contains(ch)
-                        && !invalid.contains(ch)) {
+                if (set.contains(temp) && !set.contains(ch) && !invalid.contains(ch)) {
                     count++;
-                    special.add(ch);
+                    // special.add(ch);
                 }
             }
 
             set.add(ch);
         }
 
-        return count;
+        return (count>=0)?count:0;
     }
 }
