@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shashankrai30/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Shashankrai30/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shashankrai30/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Shashankrai30/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Shashankrai30/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Shashankrai30/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Sliding Window
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Shashankrai30/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Shashankrai30/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shashankrai30/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Shashankrai30/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Shashankrai30/LeetCode/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
