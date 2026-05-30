@@ -361,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0197-rising-temperature](https://github.com/Shashankrai30/LeetCode/tree/main/0197-rising-temperature/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Shashankrai30/LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Shashankrai30/LeetCode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
+| [0610-triangle-judgement](https://github.com/Shashankrai30/LeetCode/tree/main/0610-triangle-judgement/) | Easy |
 | [0620-not-boring-movies](https://github.com/Shashankrai30/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
 | [1075-project-employees-i](https://github.com/Shashankrai30/LeetCode/tree/main/1075-project-employees-i/) | Easy |
 | [1211-queries-quality-and-percentage](https://github.com/Shashankrai30/LeetCode/tree/main/1211-queries-quality-and-percentage/) | Easy |
