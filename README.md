@@ -369,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Shashankrai30/LeetCode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Shashankrai30/LeetCode/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/Shashankrai30/LeetCode/tree/main/1661-average-time-of-process-per-machine/) | Easy |
+| [1873-calculate-special-bonus](https://github.com/Shashankrai30/LeetCode/tree/main/1873-calculate-special-bonus/) | Easy |
 | [1890-the-latest-login-in-2020](https://github.com/Shashankrai30/LeetCode/tree/main/1890-the-latest-login-in-2020/) | Easy |
 | [1934-confirmation-rate](https://github.com/Shashankrai30/LeetCode/tree/main/1934-confirmation-rate/) | Medium |
 <!---LeetCode Topics End-->
