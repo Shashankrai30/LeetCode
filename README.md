@@ -265,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shashankrai30/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Shashankrai30/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Shashankrai30/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shashankrai30/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shashankrai30/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2540-minimum-common-value](https://github.com/Shashankrai30/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shashankrai30/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -314,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/Shashankrai30/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Shashankrai30/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1669-merge-in-between-linked-lists](https://github.com/Shashankrai30/LeetCode/tree/main/1669-merge-in-between-linked-lists/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shashankrai30/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shashankrai30/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
