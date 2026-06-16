@@ -1,8 +1,7 @@
 class Solution {
     public boolean canJump(int[] nums) {
-
         Boolean dp[]=new Boolean[nums.length+1];
-        return helper(0,nums,dp);
+       return helper(0,nums,dp); 
     }
 
     boolean helper(int i,int nums[],Boolean dp[]){
@@ -13,9 +12,12 @@ class Solution {
         if(dp[i]!=null) return dp[i];
 
         for(int jump=1;jump<=nums[i];jump++){
-            if(helper(i+jump,nums,dp)) return dp[i]=true;
+
+            if(helper(i+jump,nums,dp)){
+                return dp[i] = true;
+            }
         }
 
-        return dp[i]=false;
+        return dp[i] = false;
     }
 }
