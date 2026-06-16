@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shashankrai30/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Shashankrai30/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Shashankrai30/LeetCode/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/Shashankrai30/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Shashankrai30/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Shashankrai30/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shashankrai30/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/Shashankrai30/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Shashankrai30/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
