@@ -1,22 +1,24 @@
 class Solution {
     public int jump(int[] nums) {
         Integer dp[]=new Integer[nums.length+1];
-       return helper(0,nums,dp); 
+        return helper(0,nums,dp);
     }
 
-    int helper(int i,int nums[],Integer dp[]){
+    int helper(int ind,int nums[],Integer dp[]){
 
-        if(i==nums.length-1) return 0;
-        if(i>=nums.length) return Integer.MAX_VALUE/2;
+        if(ind==nums.length-1) return 0;
 
-        if(dp[i]!=null) return dp[i];
+        if(ind>=nums.length) return Integer.MAX_VALUE/2;
+
+        if(dp[ind]!=null) return dp[ind];
 
         int ans=Integer.MAX_VALUE/2;
 
-        for(int jump=1;jump<=nums[i];jump++){
-            ans=Math.min(ans,helper(i+jump,nums,dp));
+        for(int i=1;i<=nums[ind];i++){
+
+            ans=Math.min(ans,helper(ind+i,nums,dp));
         }
 
-        return dp[i]=1+ans;
+        return dp[ind] = ans+1;
     }
 }
