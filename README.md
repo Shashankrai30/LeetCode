@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Shashankrai30/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Shashankrai30/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Shashankrai30/LeetCode/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/Shashankrai30/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0072-edit-distance](https://github.com/Shashankrai30/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0120-triangle](https://github.com/Shashankrai30/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shashankrai30/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -291,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Shashankrai30/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0062-unique-paths](https://github.com/Shashankrai30/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0189-rotate-array](https://github.com/Shashankrai30/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/Shashankrai30/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shashankrai30/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -421,4 +423,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1890-the-latest-login-in-2020](https://github.com/Shashankrai30/LeetCode/tree/main/1890-the-latest-login-in-2020/) | Easy |
 | [1934-confirmation-rate](https://github.com/Shashankrai30/LeetCode/tree/main/1934-confirmation-rate/) | Medium |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Shashankrai30/LeetCode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Shashankrai30/LeetCode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
