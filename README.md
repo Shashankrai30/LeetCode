@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/Shashankrai30/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Shashankrai30/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Shashankrai30/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
+| [0997-find-the-town-judge](https://github.com/Shashankrai30/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shashankrai30/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Shashankrai30/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Shashankrai30/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Shashankrai30/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Shashankrai30/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Shashankrai30/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0997-find-the-town-judge](https://github.com/Shashankrai30/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/Shashankrai30/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Shashankrai30/LeetCode/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1763-longest-nice-substring](https://github.com/Shashankrai30/LeetCode/tree/main/1763-longest-nice-substring/) | Easy |
@@ -476,5 +478,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/Shashankrai30/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Shashankrai30/LeetCode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
