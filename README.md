@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shashankrai30/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Shashankrai30/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0135-candy](https://github.com/Shashankrai30/LeetCode/tree/main/0135-candy/) | Hard |
+| [0140-word-break-ii](https://github.com/Shashankrai30/LeetCode/tree/master/0140-word-break-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shashankrai30/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/Shashankrai30/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shashankrai30/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/Shashankrai30/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shashankrai30/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shashankrai30/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0140-word-break-ii](https://github.com/Shashankrai30/LeetCode/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/Shashankrai30/LeetCode/tree/main/0174-dungeon-game/) | Hard |
 | [0198-house-robber](https://github.com/Shashankrai30/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Shashankrai30/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Shashankrai30/LeetCode/tree/main/0039-combination-sum/) | Medium |
+| [0140-word-break-ii](https://github.com/Shashankrai30/LeetCode/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/Shashankrai30/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Shashankrai30/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 ## Bit Manipulation
@@ -160,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shashankrai30/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0140-word-break-ii](https://github.com/Shashankrai30/LeetCode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Shashankrai30/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Shashankrai30/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shashankrai30/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -224,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Shashankrai30/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Shashankrai30/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Shashankrai30/LeetCode/tree/main/0072-edit-distance/) | Medium |
+| [0140-word-break-ii](https://github.com/Shashankrai30/LeetCode/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/Shashankrai30/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Shashankrai30/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Shashankrai30/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -508,4 +513,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shashankrai30/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Shashankrai30/LeetCode/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Shashankrai30/LeetCode/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
