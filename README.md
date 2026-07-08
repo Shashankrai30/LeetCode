@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Shashankrai30/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Shashankrai30/LeetCode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Shashankrai30/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0283-move-zeroes](https://github.com/Shashankrai30/LeetCode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Shashankrai30/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0312-burst-balloons](https://github.com/Shashankrai30/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Shashankrai30/LeetCode/tree/main/0322-coin-change/) | Medium |
@@ -329,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shashankrai30/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Shashankrai30/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Shashankrai30/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/Shashankrai30/LeetCode/tree/master/0283-move-zeroes) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shashankrai30/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shashankrai30/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Shashankrai30/LeetCode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
