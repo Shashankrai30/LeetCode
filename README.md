@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shashankrai30/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Shashankrai30/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0140-word-break-ii](https://github.com/Shashankrai30/LeetCode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Shashankrai30/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shashankrai30/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Shashankrai30/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Shashankrai30/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0594-longest-harmonious-subsequence](https://github.com/Shashankrai30/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shashankrai30/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Shashankrai30/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Shashankrai30/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Shashankrai30/LeetCode/tree/master/0032-longest-valid-parentheses) |
