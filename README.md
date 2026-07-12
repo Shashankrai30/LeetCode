@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1848-minimum-distance-to-the-target-element](https://github.com/Shashankrai30/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shashankrai30/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/Shashankrai30/LeetCode/tree/main/1975-maximum-matrix-sum/) | Medium |
+| [2008-maximum-earnings-from-taxi](https://github.com/Shashankrai30/LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Shashankrai30/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shashankrai30/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shashankrai30/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1473-paint-house-iii](https://github.com/Shashankrai30/LeetCode/tree/main/1473-paint-house-iii/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shashankrai30/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shashankrai30/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
+| [2008-maximum-earnings-from-taxi](https://github.com/Shashankrai30/LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shashankrai30/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Matrix
 |  |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Shashankrai30/LeetCode/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1763-longest-nice-substring](https://github.com/Shashankrai30/LeetCode/tree/main/1763-longest-nice-substring/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shashankrai30/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2008-maximum-earnings-from-taxi](https://github.com/Shashankrai30/LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Shashankrai30/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shashankrai30/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2540-minimum-common-value](https://github.com/Shashankrai30/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
@@ -246,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shashankrai30/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/Shashankrai30/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shashankrai30/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2008-maximum-earnings-from-taxi](https://github.com/Shashankrai30/LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shashankrai30/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Shashankrai30/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shashankrai30/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -301,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shashankrai30/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shashankrai30/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Shashankrai30/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [2008-maximum-earnings-from-taxi](https://github.com/Shashankrai30/LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Shashankrai30/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shashankrai30/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Shashankrai30/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
