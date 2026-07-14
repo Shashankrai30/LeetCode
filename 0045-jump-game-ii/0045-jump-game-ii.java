@@ -1,6 +1,6 @@
 class Solution {
     public int jump(int[] nums) {
-        Integer dp[]=new Integer[nums.length+1];
+        Integer dp[] = new Integer[nums.length];
         return helper(0,nums,dp);
     }
 
@@ -12,13 +12,12 @@ class Solution {
 
         if(dp[ind]!=null) return dp[ind];
 
-        int ans=Integer.MAX_VALUE/2;
+        int min=Integer.MAX_VALUE/2;
 
         for(int i=1;i<=nums[ind];i++){
-
-            ans=Math.min(ans,helper(ind+i,nums,dp));
+            min=Math.min(min,helper(ind+i,nums,dp));
         }
 
-        return dp[ind] = ans+1;
+        return dp[ind] = 1+min;
     }
 }
