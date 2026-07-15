@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/Shashankrai30/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0605-can-place-flowers](https://github.com/Shashankrai30/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Shashankrai30/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0704-binary-search](https://github.com/Shashankrai30/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Shashankrai30/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/Shashankrai30/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0741-cherry-pickup](https://github.com/Shashankrai30/LeetCode/tree/main/0741-cherry-pickup/) | Hard |
@@ -305,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shashankrai30/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Shashankrai30/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Shashankrai30/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0704-binary-search](https://github.com/Shashankrai30/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Shashankrai30/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shashankrai30/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Shashankrai30/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
