@@ -1,56 +1,70 @@
 class Solution {
     public int search(int[] nums, int target) {
-        int i = 0;
-        int j = nums.length - 1;
-        int ans = -1;
 
-        if (nums.length == 1) {
-            return nums[0] == target ? 0 : -1;
-        }
-        while (i <= j) {
-            int mid = i + (j - i) / 2;
+    //   if(nums.length==1){
+    //     return (nums[0]==target)?0:-1;
+    //   }
+      int i=0;
+      int j=nums.length-1;
 
-            if (mid < nums.length - 1 && nums[mid] > nums[mid + 1]) {
-                ans = mid;
-                break;
-            } else if (mid > 0 && nums[mid] < nums[mid - 1]) {
-                ans = mid - 1;
-                break;
-            } else if (nums[mid] > nums[i]) {
-                i = mid + 1;
-            } else {
-                j = mid - 1;
-            }
-        }
+      int rotated=0;
+      boolean found=false;
 
-        if (ans == -1) {
-            ans = nums.length - 1;
-        }
-        int k = 0;
-        int l = ans;
-        while (k <= l) {
-            int mid = k + (l - k) / 2;
-            if (nums[mid] == target) {
-                return mid;
-            } else if (nums[mid] < target) {
-                k = mid + 1;
-            } else {
-                l = mid - 1;
-            }
-        }
-        int a = ans + 1;
-        int m = nums.length - 1;
-        while (a <= m) {
-            int mid = a + (m - a) / 2;
-            if (nums[mid] == target) {
-                return mid;
-            } else if (nums[mid] < target) {
-                a = mid + 1;
-            } else {
-                m = mid - 1;
-            }
-        }
+      while(i<=j){
+        int mid=i+(j-i)/2;
 
-        return -1;
+        if((mid-1>=0 && nums[mid]>nums[mid-1]) && (mid+1<nums.length && nums[mid]>nums[mid+1])){
+            rotated=mid;
+            found=true;
+            break;
+        }
+        else if(nums[mid]>=nums[0] && nums[mid]>=nums[nums.length-1]){
+            i=mid+1;
+        }
+        else{
+            j=mid-1;
+        }
+      }  
+
+      if(!found){
+        rotated=j%nums.length;
+      }
+
+      i=0;
+      j=rotated;
+
+      while(i<=j){
+        int mid=i+(j-i)/2;
+
+        if(nums[mid]==target){
+            return mid;
+        }
+        else if(nums[mid]<target){
+            i=mid+1;
+        }
+        else{
+            j=mid-1;
+        }
+      }
+
+      i=rotated+1;
+      j=nums.length-1;
+
+      while(i<=j){
+        int mid=i+(j-i)/2;
+
+        if(nums[mid]==target){
+            return mid;
+        }
+        else if(nums[mid]<target){
+            i=mid+1;
+        }
+        else{
+            j=mid-1;
+        }
+      }
+
+      return -1;
+
     }
 }
