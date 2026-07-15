@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2187-minimum-time-to-complete-trips](https://github.com/Shashankrai30/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shashankrai30/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Shashankrai30/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2305-fair-distribution-of-cookies](https://github.com/Shashankrai30/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Shashankrai30/LeetCode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shashankrai30/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Shashankrai30/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shashankrai30/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shashankrai30/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [2008-maximum-earnings-from-taxi](https://github.com/Shashankrai30/LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
+| [2305-fair-distribution-of-cookies](https://github.com/Shashankrai30/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shashankrai30/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Matrix
 |  |
@@ -183,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/Shashankrai30/LeetCode/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/Shashankrai30/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Shashankrai30/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
+| [2305-fair-distribution-of-cookies](https://github.com/Shashankrai30/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -192,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0980-unique-paths-iii](https://github.com/Shashankrai30/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1763-longest-nice-substring](https://github.com/Shashankrai30/LeetCode/tree/main/1763-longest-nice-substring/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shashankrai30/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2305-fair-distribution-of-cookies](https://github.com/Shashankrai30/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shashankrai30/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Hash Table
 |  |
@@ -624,4 +628,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Shashankrai30/LeetCode/tree/master/0140-word-break-ii) |
+## Bitmask
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/Shashankrai30/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
