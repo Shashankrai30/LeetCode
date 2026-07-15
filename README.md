@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Shashankrai30/LeetCode/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Shashankrai30/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Shashankrai30/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Shashankrai30/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shashankrai30/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shashankrai30/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Shashankrai30/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
@@ -334,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Shashankrai30/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shashankrai30/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Shashankrai30/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Shashankrai30/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Shashankrai30/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Divide and Conquer
