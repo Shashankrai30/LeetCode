@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1473-paint-house-iii](https://github.com/Shashankrai30/LeetCode/tree/main/1473-paint-house-iii/) | Hard |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Shashankrai30/LeetCode/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shashankrai30/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [1552-magnetic-force-between-two-balls](https://github.com/Shashankrai30/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shashankrai30/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shashankrai30/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Shashankrai30/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/Shashankrai30/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shashankrai30/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shashankrai30/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [1552-magnetic-force-between-two-balls](https://github.com/Shashankrai30/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shashankrai30/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/Shashankrai30/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shashankrai30/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -326,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Shashankrai30/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shashankrai30/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shashankrai30/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/Shashankrai30/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shashankrai30/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Shashankrai30/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Shashankrai30/LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
