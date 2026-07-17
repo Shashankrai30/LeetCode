@@ -522,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/Shashankrai30/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shashankrai30/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0200-number-of-islands](https://github.com/Shashankrai30/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/Shashankrai30/LeetCode/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shashankrai30/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Shashankrai30/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Shashankrai30/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -540,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/Shashankrai30/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Shashankrai30/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/Shashankrai30/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/Shashankrai30/LeetCode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Shashankrai30/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Shashankrai30/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0542-01-matrix](https://github.com/Shashankrai30/LeetCode/tree/main/0542-01-matrix/) | Medium |
@@ -627,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Shashankrai30/LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Shashankrai30/LeetCode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Shashankrai30/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0997-find-the-town-judge](https://github.com/Shashankrai30/LeetCode/tree/master/0997-find-the-town-judge) |
@@ -650,4 +653,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/Shashankrai30/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Shashankrai30/LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
