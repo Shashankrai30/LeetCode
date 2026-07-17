@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1848-minimum-distance-to-the-target-element](https://github.com/Shashankrai30/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shashankrai30/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/Shashankrai30/LeetCode/tree/main/1975-maximum-matrix-sum/) | Medium |
+| [1992-find-all-groups-of-farmland](https://github.com/Shashankrai30/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Shashankrai30/LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Shashankrai30/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shashankrai30/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1463-cherry-pickup-ii](https://github.com/Shashankrai30/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1765-map-of-highest-peak](https://github.com/Shashankrai30/LeetCode/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/Shashankrai30/LeetCode/tree/main/1975-maximum-matrix-sum/) | Medium |
+| [1992-find-all-groups-of-farmland](https://github.com/Shashankrai30/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shashankrai30/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Backtracking
 |  |
@@ -538,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/Shashankrai30/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1306-jump-game-iii](https://github.com/Shashankrai30/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Shashankrai30/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [1992-find-all-groups-of-farmland](https://github.com/Shashankrai30/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shashankrai30/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -561,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-jump-game-iii](https://github.com/Shashankrai30/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/Shashankrai30/LeetCode/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Shashankrai30/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [1992-find-all-groups-of-farmland](https://github.com/Shashankrai30/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shashankrai30/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shashankrai30/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
