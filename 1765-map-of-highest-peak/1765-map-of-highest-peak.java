@@ -1,55 +1,60 @@
 class Solution {
+
     class pair{
         int row;
         int col;
-        int level;
-        public pair(int row,int col,int level){
+        int dist;
+        public pair(int row,int col,int dist){
             this.row=row;
             this.col=col;
-            this.level=level;
+            this.dist=dist;
         }
     }
 
-    int dr[]={1,-1,0,0};
-    int dc[]={0,0,1,-1};
     int rowl;
     int coll;
+    int dr[]= {1,-1,0,0};
+    int dc[]= {0,0,1,-1};
 
     public int[][] highestPeak(int[][] isWater) {
-       rowl=isWater.length;
-       coll=isWater[0].length;
+        rowl=isWater.length;
+        coll=isWater[0].length;
 
-       Queue<pair> q=new LinkedList<>();
-       boolean visited[][]=new boolean[rowl][coll];
+        int ans[][] = new int[rowl][coll];
 
-       for(int i=0;i<rowl;i++){
-        for(int j=0;j<coll;j++){
-            if(isWater[i][j]==1){
-                q.offer(new pair(i,j,0));
-                isWater[i][j]=0;
-                visited[i][j]=true;
+        for(int arr[]:ans){
+            Arrays.fill(arr,Integer.MAX_VALUE);
+        }
+
+        PriorityQueue<pair> pq = new PriorityQueue<>((a,b)-> a.dist-b.dist);
+
+        for(int i=0;i<rowl;i++){
+            for(int j=0;j<coll;j++){
+
+                if(isWater[i][j]==1){
+                    pq.offer(new pair(i,j,0));
+                    ans[i][j]=0;
+                }
             }
         }
-       } 
 
-       while(!q.isEmpty()){
-        pair curr=q.poll();
-        int row=curr.row;
-        int col=curr.col;
-        int level=curr.level;
+        while(!pq.isEmpty()){
+            pair curr= pq.poll();
+            int r=curr.row;
+            int c=curr.col;
+            int d=curr.dist;
 
-        for(int i=0;i<4;i++){
-            int nrow=row+dr[i];
-            int ncol=col+dc[i];
+            for(int i=0;i<4;i++){
+                int nrow=r+dr[i];
+                int ncol=c+dc[i];
 
-            if(nrow>=0 && ncol>=0 && nrow<rowl && ncol<coll && !visited[nrow][ncol]){
-                isWater[nrow][ncol]=level+1;
-                q.offer(new pair(nrow,ncol,level+1));
-                visited[nrow][ncol]=true;
+                if(nrow>=0 && ncol>=0 && nrow<rowl && ncol<coll && isWater[nrow][ncol]==0 && ans[nrow][ncol]>d+1){
+                    pq.offer(new pair(nrow,ncol,d+1));
+                    ans[nrow][ncol] = d+1;
+                }
             }
         }
-       }
 
-       return isWater;
+        return ans;
     }
 }
