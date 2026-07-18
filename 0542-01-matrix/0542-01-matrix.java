@@ -1,50 +1,60 @@
 class Solution {
-    public static class pair{
+    class pair{
         int row;
         int col;
-        int level;
-        public pair(int row,int col,int level){
+        int dist;
+        public pair(int row,int col,int dist){
             this.row=row;
             this.col=col;
-            this.level=level;
+            this.dist=dist;
         }
     }
-    public static int dr[]={-1,1,0,0};
-    public static int dc[]={0,0,1,-1};
-    public static int rowl;
-    public static int coll;
+
+    int rowl;
+    int coll;
+    int dr[]= {1,-1,0,0};
+    int dc[]= {0,0,1,-1};
+
     public int[][] updateMatrix(int[][] mat) {
+
         rowl=mat.length;
         coll=mat[0].length;
-        Queue<pair> q=new LinkedList<>();
-        boolean visited[][]=new boolean[rowl][coll];
+
+        int ans[][] = new int[mat.length][mat[0].length];
+
+        for(int arr[]:ans){
+            Arrays.fill(arr,Integer.MAX_VALUE);
+        }
+
+        PriorityQueue<pair> pq = new PriorityQueue<>((a,b)-> a.dist-b.dist);
 
         for(int i=0;i<rowl;i++){
             for(int j=0;j<coll;j++){
+
                 if(mat[i][j]==0){
-                    q.offer(new pair(i,j,0));
-                    visited[i][j]=true;
+                    pq.offer(new pair(i,j,0));
+                    ans[i][j]=0;
                 }
             }
         }
-        
-        while(!q.isEmpty()){
-            pair curr=q.poll();
+
+        while(!pq.isEmpty()){
+            pair curr= pq.poll();
             int r=curr.row;
             int c=curr.col;
-            int level=curr.level;
+            int d=curr.dist;
 
             for(int i=0;i<4;i++){
                 int nrow=r+dr[i];
                 int ncol=c+dc[i];
 
-                if(nrow>=0 && ncol>=0 && nrow<rowl && ncol<coll && !visited[nrow][ncol]){
-                    mat[nrow][ncol]=level+1;
-                    q.offer(new pair(nrow,ncol,level+1));
-                    visited[nrow][ncol]=true;
+                if(nrow>=0 && ncol>=0 && nrow<rowl && ncol<coll && mat[nrow][ncol]==1 && ans[nrow][ncol]>d+1){
+                    pq.offer(new pair(nrow,ncol,d+1));
+                    ans[nrow][ncol] = d+1;
                 }
             }
         }
-        return mat;
+
+        return ans;
     }
 }
