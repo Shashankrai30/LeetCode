@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/Shashankrai30/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Shashankrai30/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Shashankrai30/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
+| [0994-rotting-oranges](https://github.com/Shashankrai30/LeetCode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Shashankrai30/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shashankrai30/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Shashankrai30/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0741-cherry-pickup](https://github.com/Shashankrai30/LeetCode/tree/main/0741-cherry-pickup/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/Shashankrai30/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Shashankrai30/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
+| [0994-rotting-oranges](https://github.com/Shashankrai30/LeetCode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Shashankrai30/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Shashankrai30/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shashankrai30/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -570,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/Shashankrai30/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/Shashankrai30/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Shashankrai30/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0994-rotting-oranges](https://github.com/Shashankrai30/LeetCode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Shashankrai30/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1306-jump-game-iii](https://github.com/Shashankrai30/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/Shashankrai30/LeetCode/tree/main/1765-map-of-highest-peak/) | Medium |
