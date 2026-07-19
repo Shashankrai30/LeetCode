@@ -307,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/Shashankrai30/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Shashankrai30/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Shashankrai30/LeetCode/tree/main/0796-rotate-string/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shashankrai30/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Shashankrai30/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Shashankrai30/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1763-longest-nice-substring](https://github.com/Shashankrai30/LeetCode/tree/main/1763-longest-nice-substring/) | Easy |
@@ -438,12 +439,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Shashankrai30/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shashankrai30/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/Shashankrai30/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shashankrai30/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shashankrai30/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shashankrai30/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shashankrai30/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shashankrai30/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Math
 |  |
 | ------- |
@@ -475,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/Shashankrai30/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0680-valid-palindrome-ii](https://github.com/Shashankrai30/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/Shashankrai30/LeetCode/tree/master/0860-lemonade-change) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shashankrai30/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1642-furthest-building-you-can-reach](https://github.com/Shashankrai30/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shashankrai30/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shashankrai30/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
