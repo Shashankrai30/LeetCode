@@ -399,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shashankrai30/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0502-ipo](https://github.com/Shashankrai30/LeetCode/tree/master/0502-ipo) |
+| [0743-network-delay-time](https://github.com/Shashankrai30/LeetCode/tree/master/0743-network-delay-time) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shashankrai30/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1642-furthest-building-you-can-reach](https://github.com/Shashankrai30/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shashankrai30/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -563,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shashankrai30/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shashankrai30/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/Shashankrai30/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/Shashankrai30/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Shashankrai30/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1306-jump-game-iii](https://github.com/Shashankrai30/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Shashankrai30/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -585,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shashankrai30/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shashankrai30/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/Shashankrai30/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/Shashankrai30/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Shashankrai30/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Shashankrai30/LeetCode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Shashankrai30/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -671,6 +674,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/Shashankrai30/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Shashankrai30/LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Shashankrai30/LeetCode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Shashankrai30/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Shashankrai30/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0997-find-the-town-judge](https://github.com/Shashankrai30/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Shashankrai30/LeetCode/tree/master/1791-find-center-of-star-graph) |
@@ -680,6 +684,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Shashankrai30/LeetCode/tree/master/0743-network-delay-time) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shashankrai30/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Trie
 |  |
