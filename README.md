@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2187-minimum-time-to-complete-trips](https://github.com/Shashankrai30/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Shashankrai30/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Shashankrai30/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2258-escape-the-spreading-fire](https://github.com/Shashankrai30/LeetCode/tree/master/2258-escape-the-spreading-fire) |
 | [2305-fair-distribution-of-cookies](https://github.com/Shashankrai30/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Shashankrai30/LeetCode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shashankrai30/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1765-map-of-highest-peak](https://github.com/Shashankrai30/LeetCode/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/Shashankrai30/LeetCode/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [1992-find-all-groups-of-farmland](https://github.com/Shashankrai30/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
+| [2258-escape-the-spreading-fire](https://github.com/Shashankrai30/LeetCode/tree/master/2258-escape-the-spreading-fire) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shashankrai30/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Backtracking
 |  |
@@ -353,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shashankrai30/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Shashankrai30/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Shashankrai30/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2258-escape-the-spreading-fire](https://github.com/Shashankrai30/LeetCode/tree/master/2258-escape-the-spreading-fire) |
 | [2540-minimum-common-value](https://github.com/Shashankrai30/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2594-minimum-time-to-repair-cars](https://github.com/Shashankrai30/LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shashankrai30/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -589,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1765-map-of-highest-peak](https://github.com/Shashankrai30/LeetCode/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Shashankrai30/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [1992-find-all-groups-of-farmland](https://github.com/Shashankrai30/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
+| [2258-escape-the-spreading-fire](https://github.com/Shashankrai30/LeetCode/tree/master/2258-escape-the-spreading-fire) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shashankrai30/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shashankrai30/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
