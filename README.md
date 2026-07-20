@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Shashankrai30/LeetCode/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shashankrai30/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1552-magnetic-force-between-two-balls](https://github.com/Shashankrai30/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1631-path-with-minimum-effort](https://github.com/Shashankrai30/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/Shashankrai30/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shashankrai30/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shashankrai30/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Shashankrai30/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shashankrai30/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1463-cherry-pickup-ii](https://github.com/Shashankrai30/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1631-path-with-minimum-effort](https://github.com/Shashankrai30/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Shashankrai30/LeetCode/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/Shashankrai30/LeetCode/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [1992-find-all-groups-of-farmland](https://github.com/Shashankrai30/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
@@ -348,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shashankrai30/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shashankrai30/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/Shashankrai30/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1631-path-with-minimum-effort](https://github.com/Shashankrai30/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shashankrai30/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Shashankrai30/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Shashankrai30/LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
@@ -401,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/Shashankrai30/LeetCode/tree/master/0502-ipo) |
 | [0743-network-delay-time](https://github.com/Shashankrai30/LeetCode/tree/master/0743-network-delay-time) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shashankrai30/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/Shashankrai30/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/Shashankrai30/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shashankrai30/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Monotonic Queue
@@ -567,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/Shashankrai30/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Shashankrai30/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1306-jump-game-iii](https://github.com/Shashankrai30/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Shashankrai30/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Shashankrai30/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [1992-find-all-groups-of-farmland](https://github.com/Shashankrai30/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shashankrai30/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -592,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/Shashankrai30/LeetCode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Shashankrai30/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1306-jump-game-iii](https://github.com/Shashankrai30/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Shashankrai30/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Shashankrai30/LeetCode/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Shashankrai30/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [1992-find-all-groups-of-farmland](https://github.com/Shashankrai30/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
@@ -626,6 +632,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Shashankrai30/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Shashankrai30/LeetCode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Shashankrai30/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/Shashankrai30/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Shashankrai30/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shashankrai30/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Database
