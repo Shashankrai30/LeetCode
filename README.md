@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0576-out-of-boundary-paths](https://github.com/Shashankrai30/LeetCode/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Shashankrai30/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0741-cherry-pickup](https://github.com/Shashankrai30/LeetCode/tree/main/0741-cherry-pickup/) | Hard |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Shashankrai30/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0879-profitable-schemes](https://github.com/Shashankrai30/LeetCode/tree/main/0879-profitable-schemes/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/Shashankrai30/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Shashankrai30/LeetCode/tree/master/1092-shortest-common-supersequence) |
@@ -403,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Shashankrai30/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0502-ipo](https://github.com/Shashankrai30/LeetCode/tree/master/0502-ipo) |
 | [0743-network-delay-time](https://github.com/Shashankrai30/LeetCode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Shashankrai30/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shashankrai30/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/Shashankrai30/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/Shashankrai30/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
@@ -570,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Shashankrai30/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/Shashankrai30/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Shashankrai30/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Shashankrai30/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1306-jump-game-iii](https://github.com/Shashankrai30/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Shashankrai30/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Shashankrai30/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -594,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Shashankrai30/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/Shashankrai30/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Shashankrai30/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Shashankrai30/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/Shashankrai30/LeetCode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Shashankrai30/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1306-jump-game-iii](https://github.com/Shashankrai30/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
@@ -683,6 +687,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Shashankrai30/LeetCode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Shashankrai30/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Shashankrai30/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Shashankrai30/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0997-find-the-town-judge](https://github.com/Shashankrai30/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Shashankrai30/LeetCode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Shashankrai30/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -692,6 +697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Shashankrai30/LeetCode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Shashankrai30/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shashankrai30/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Trie
 |  |
