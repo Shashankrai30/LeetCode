@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/Shashankrai30/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shashankrai30/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shashankrai30/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0132-palindrome-partitioning-ii](https://github.com/Shashankrai30/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Shashankrai30/LeetCode/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/Shashankrai30/LeetCode/tree/main/0174-dungeon-game/) | Hard |
 | [0198-house-robber](https://github.com/Shashankrai30/LeetCode/tree/main/0198-house-robber/) | Medium |
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/Shashankrai30/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Shashankrai30/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0125-valid-palindrome](https://github.com/Shashankrai30/LeetCode/tree/master/0125-valid-palindrome) |
+| [0132-palindrome-partitioning-ii](https://github.com/Shashankrai30/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Shashankrai30/LeetCode/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/Shashankrai30/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Shashankrai30/LeetCode/tree/master/0316-remove-duplicate-letters) |
