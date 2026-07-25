@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2008-maximum-earnings-from-taxi](https://github.com/Shashankrai30/LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2305-fair-distribution-of-cookies](https://github.com/Shashankrai30/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/Shashankrai30/LeetCode/tree/master/2320-count-number-of-ways-to-place-houses) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Shashankrai30/LeetCode/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shashankrai30/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Matrix
 |  |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2206-divide-array-into-equal-pairs](https://github.com/Shashankrai30/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2305-fair-distribution-of-cookies](https://github.com/Shashankrai30/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shashankrai30/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Shashankrai30/LeetCode/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Hash Table
 |  |
 | ------- |
@@ -492,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Shashankrai30/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/Shashankrai30/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shashankrai30/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Shashankrai30/LeetCode/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shashankrai30/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Shashankrai30/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Shashankrai30/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -696,6 +699,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Shashankrai30/LeetCode/tree/main/0062-unique-paths/) | Medium |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Shashankrai30/LeetCode/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Counting Sort
 |  |
 | ------- |
@@ -739,6 +743,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shashankrai30/LeetCode/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/Shashankrai30/LeetCode/tree/master/0140-word-break-ii) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Shashankrai30/LeetCode/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Bitmask
 |  |
 | ------- |
