@@ -1,15 +1,15 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
         Integer dp[][] = new Integer[coins.length][amount+1];
-        int ans=helper(0,amount,coins,dp);
-        return (ans>=Integer.MAX_VALUE/2)?-1:ans;
+       int ans = helper(0,amount,coins,dp);
+       return (ans>=Integer.MAX_VALUE/2)?-1:ans;
     }
 
     int helper(int i,int amount,int coins[],Integer dp[][]){
 
         if(amount==0) return 0;
 
-        if(amount<0 || i==coins.length){
+        if(i==coins.length || amount<0){
             return Integer.MAX_VALUE/2;
         }
 
