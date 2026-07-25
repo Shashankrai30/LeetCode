@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/Shashankrai30/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/Shashankrai30/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0741-cherry-pickup](https://github.com/Shashankrai30/LeetCode/tree/main/0741-cherry-pickup/) | Hard |
+| [0746-min-cost-climbing-stairs](https://github.com/Shashankrai30/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/Shashankrai30/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Shashankrai30/LeetCode/tree/master/0827-making-a-large-island) |
 | [0860-lemonade-change](https://github.com/Shashankrai30/LeetCode/tree/master/0860-lemonade-change) |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0639-decode-ways-ii](https://github.com/Shashankrai30/LeetCode/tree/master/0639-decode-ways-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Shashankrai30/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0741-cherry-pickup](https://github.com/Shashankrai30/LeetCode/tree/main/0741-cherry-pickup/) | Hard |
+| [0746-min-cost-climbing-stairs](https://github.com/Shashankrai30/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shashankrai30/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0879-profitable-schemes](https://github.com/Shashankrai30/LeetCode/tree/main/0879-profitable-schemes/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/Shashankrai30/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
