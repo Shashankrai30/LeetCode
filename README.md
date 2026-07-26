@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/Shashankrai30/LeetCode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Shashankrai30/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shashankrai30/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1046-last-stone-weight](https://github.com/Shashankrai30/LeetCode/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/Shashankrai30/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Shashankrai30/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Shashankrai30/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -432,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/Shashankrai30/LeetCode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Shashankrai30/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shashankrai30/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1046-last-stone-weight](https://github.com/Shashankrai30/LeetCode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shashankrai30/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Shashankrai30/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Shashankrai30/LeetCode/tree/master/1631-path-with-minimum-effort) |
