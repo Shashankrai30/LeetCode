@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shashankrai30/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Shashankrai30/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1463-cherry-pickup-ii](https://github.com/Shashankrai30/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shashankrai30/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1473-paint-house-iii](https://github.com/Shashankrai30/LeetCode/tree/main/1473-paint-house-iii/) | Hard |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Shashankrai30/LeetCode/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shashankrai30/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -306,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/Shashankrai30/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Shashankrai30/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shashankrai30/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shashankrai30/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shashankrai30/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1552-magnetic-force-between-two-balls](https://github.com/Shashankrai30/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shashankrai30/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
@@ -436,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-last-stone-weight](https://github.com/Shashankrai30/LeetCode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shashankrai30/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Shashankrai30/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shashankrai30/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Shashankrai30/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/Shashankrai30/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shashankrai30/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
