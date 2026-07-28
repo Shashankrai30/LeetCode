@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2008-maximum-earnings-from-taxi](https://github.com/Shashankrai30/LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2305-fair-distribution-of-cookies](https://github.com/Shashankrai30/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/Shashankrai30/LeetCode/tree/master/2320-count-number-of-ways-to-place-houses) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Shashankrai30/LeetCode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Shashankrai30/LeetCode/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shashankrai30/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Matrix
@@ -508,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/Shashankrai30/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashankrai30/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shashankrai30/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Shashankrai30/LeetCode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Shashankrai30/LeetCode/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shashankrai30/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Shashankrai30/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
@@ -713,6 +715,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Shashankrai30/LeetCode/tree/main/0062-unique-paths/) | Medium |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Shashankrai30/LeetCode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Shashankrai30/LeetCode/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Counting Sort
 |  |
