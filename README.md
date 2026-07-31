@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-minimum-falling-path-sum](https://github.com/Shashankrai30/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/Shashankrai30/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Shashankrai30/LeetCode/tree/master/1092-shortest-common-supersequence) |
+| [1143-longest-common-subsequence](https://github.com/Shashankrai30/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Shashankrai30/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Shashankrai30/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Shashankrai30/LeetCode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/Shashankrai30/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shashankrai30/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Shashankrai30/LeetCode/tree/master/1092-shortest-common-supersequence) |
+| [1143-longest-common-subsequence](https://github.com/Shashankrai30/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Shashankrai30/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1763-longest-nice-substring](https://github.com/Shashankrai30/LeetCode/tree/main/1763-longest-nice-substring/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shashankrai30/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
