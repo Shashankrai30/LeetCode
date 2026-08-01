@@ -370,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1763-longest-nice-substring](https://github.com/Shashankrai30/LeetCode/tree/main/1763-longest-nice-substring/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shashankrai30/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shashankrai30/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2207-maximize-number-of-subsequences-in-a-string](https://github.com/Shashankrai30/LeetCode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Shashankrai30/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Shashankrai30/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Shashankrai30/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -478,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/Shashankrai30/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Shashankrai30/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Shashankrai30/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
+| [2207-maximize-number-of-subsequences-in-a-string](https://github.com/Shashankrai30/LeetCode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shashankrai30/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
@@ -571,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shashankrai30/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Shashankrai30/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shashankrai30/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2207-maximize-number-of-subsequences-in-a-string](https://github.com/Shashankrai30/LeetCode/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Shashankrai30/LeetCode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shashankrai30/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shashankrai30/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
