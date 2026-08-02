@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2765-longest-alternating-subarray](https://github.com/Shashankrai30/LeetCode/tree/master/2765-longest-alternating-subarray) |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/Shashankrai30/LeetCode/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Shashankrai30/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2786-visit-array-positions-to-maximize-score](https://github.com/Shashankrai30/LeetCode/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2942-find-words-containing-character](https://github.com/Shashankrai30/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shashankrai30/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shashankrai30/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2320-count-number-of-ways-to-place-houses](https://github.com/Shashankrai30/LeetCode/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Shashankrai30/LeetCode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/Shashankrai30/LeetCode/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
+| [2786-visit-array-positions-to-maximize-score](https://github.com/Shashankrai30/LeetCode/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Shashankrai30/LeetCode/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shashankrai30/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Matrix
