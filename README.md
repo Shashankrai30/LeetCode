@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Shashankrai30/LeetCode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shashankrai30/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Shashankrai30/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1406-stone-game-iii](https://github.com/Shashankrai30/LeetCode/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/Shashankrai30/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shashankrai30/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1473-paint-house-iii](https://github.com/Shashankrai30/LeetCode/tree/main/1473-paint-house-iii/) | Hard |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Shashankrai30/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Shashankrai30/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Shashankrai30/LeetCode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
+| [1406-stone-game-iii](https://github.com/Shashankrai30/LeetCode/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/Shashankrai30/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1473-paint-house-iii](https://github.com/Shashankrai30/LeetCode/tree/main/1473-paint-house-iii/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shashankrai30/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -549,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/Shashankrai30/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashankrai30/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Shashankrai30/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Shashankrai30/LeetCode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shashankrai30/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Shashankrai30/LeetCode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shashankrai30/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -829,4 +832,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shashankrai30/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shashankrai30/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Shashankrai30/LeetCode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Shashankrai30/LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Shashankrai30/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
