@@ -258,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Shashankrai30/LeetCode/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/Shashankrai30/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Shashankrai30/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0338-counting-bits](https://github.com/Shashankrai30/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Shashankrai30/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -455,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shashankrai30/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Shashankrai30/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Shashankrai30/LeetCode/tree/master/0191-number-of-1-bits) |
 | [1763-longest-nice-substring](https://github.com/Shashankrai30/LeetCode/tree/main/1763-longest-nice-substring/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shashankrai30/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
