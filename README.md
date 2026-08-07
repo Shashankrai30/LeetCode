@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shashankrai30/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Shashankrai30/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/Shashankrai30/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Shashankrai30/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1331-rank-transform-of-an-array](https://github.com/Shashankrai30/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Shashankrai30/LeetCode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shashankrai30/LeetCode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1143-longest-common-subsequence](https://github.com/Shashankrai30/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Shashankrai30/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Shashankrai30/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Shashankrai30/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Shashankrai30/LeetCode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1406-stone-game-iii](https://github.com/Shashankrai30/LeetCode/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/Shashankrai30/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -595,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-lemonade-change](https://github.com/Shashankrai30/LeetCode/tree/master/0860-lemonade-change) |
 | [1024-video-stitching](https://github.com/Shashankrai30/LeetCode/tree/master/1024-video-stitching) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shashankrai30/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Shashankrai30/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1642-furthest-building-you-can-reach](https://github.com/Shashankrai30/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shashankrai30/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shashankrai30/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
