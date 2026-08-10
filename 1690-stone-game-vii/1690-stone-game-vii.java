@@ -1,21 +1,22 @@
 class Solution {
+
     public int stoneGameVII(int[] stones) {
 
-        int n = stones.length;
+        int sum = 0;
 
-        int prefix[] = new int[n + 1];
-
-        for (int i = 0; i < n; i++) {
-            prefix[i + 1] = prefix[i] + stones[i];
+        for (int x : stones) {
+            sum += x;
         }
 
-        Integer dp[][][] = new Integer[n][n][2];
+        Integer[][][] dp =
+            new Integer[stones.length][stones.length][2];
 
-        return helper(0, n - 1, 0, prefix, stones, dp);
+        return helper(0, stones.length - 1, 0,
+                      sum, stones, dp);
     }
 
-    int helper(int i, int j, int turn,
-               int prefix[], int stones[], Integer dp[][][]) {
+    int helper(int i, int j, int turn, int sum,
+               int[] stones, Integer[][][] dp) {
 
         if (i > j) {
             return 0;
@@ -25,28 +26,24 @@ class Solution {
             return dp[i][j][turn];
         }
 
-        if (turn == 0) { 
-            int leftSum = prefix[j + 1] - prefix[i + 1];
+        int leftSum = sum - stones[i];
+        int rightSum = sum - stones[j];
 
-            int rightSum = prefix[j] - prefix[i];
+        if (turn == 0) {
 
-            int left = leftSum + helper(i + 1, j, 1, prefix, stones, dp);
+            int left = leftSum + helper(i + 1, j, 1, leftSum, stones, dp);
 
-            int right = rightSum + helper(i, j - 1, 1, prefix, stones, dp);
+            int right = rightSum + helper(i, j - 1, 1,rightSum, stones, dp);
 
             return dp[i][j][turn] = Math.max(left, right);
 
         } else {
 
-            int leftSum = prefix[j + 1] - prefix[i + 1];
+            int left =helper(i + 1, j, 0,leftSum, stones, dp)- leftSum;
 
-            int rightSum = prefix[j] - prefix[i];
+            int right =helper(i, j - 1, 0,rightSum, stones, dp)- rightSum;
 
-            int left = helper(i + 1, j, 0, prefix, stones, dp)- leftSum;
-
-            int right = helper(i, j - 1, 0, prefix, stones, dp)- rightSum;
-
-            return dp[i][j][turn] = Math.min(left, right);
+            return dp[i][j][turn] =Math.min(left, right);
         }
     }
 }
