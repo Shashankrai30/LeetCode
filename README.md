@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1552-magnetic-force-between-two-balls](https://github.com/Shashankrai30/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/Shashankrai30/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/Shashankrai30/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
+| [1690-stone-game-vii](https://github.com/Shashankrai30/LeetCode/tree/master/1690-stone-game-vii) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shashankrai30/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shashankrai30/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Shashankrai30/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1463-cherry-pickup-ii](https://github.com/Shashankrai30/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1473-paint-house-iii](https://github.com/Shashankrai30/LeetCode/tree/main/1473-paint-house-iii/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shashankrai30/LeetCode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [1690-stone-game-vii](https://github.com/Shashankrai30/LeetCode/tree/master/1690-stone-game-vii) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shashankrai30/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [2008-maximum-earnings-from-taxi](https://github.com/Shashankrai30/LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2305-fair-distribution-of-cookies](https://github.com/Shashankrai30/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
@@ -568,6 +570,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Shashankrai30/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Shashankrai30/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shashankrai30/LeetCode/tree/master/1406-stone-game-iii) |
+| [1690-stone-game-vii](https://github.com/Shashankrai30/LeetCode/tree/master/1690-stone-game-vii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shashankrai30/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Shashankrai30/LeetCode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shashankrai30/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -857,14 +860,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Shashankrai30/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Shashankrai30/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shashankrai30/LeetCode/tree/master/1406-stone-game-iii) |
+| [1690-stone-game-vii](https://github.com/Shashankrai30/LeetCode/tree/master/1690-stone-game-vii) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Shashankrai30/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shashankrai30/LeetCode/tree/master/1406-stone-game-iii) |
+| [1690-stone-game-vii](https://github.com/Shashankrai30/LeetCode/tree/master/1690-stone-game-vii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Shashankrai30/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shashankrai30/LeetCode/tree/master/1406-stone-game-iii) |
+| [1690-stone-game-vii](https://github.com/Shashankrai30/LeetCode/tree/master/1690-stone-game-vii) |
 <!---LeetCode Topics End-->
