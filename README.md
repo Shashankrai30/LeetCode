@@ -770,6 +770,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0185-department-top-three-salaries](https://github.com/Shashankrai30/LeetCode/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/Shashankrai30/LeetCode/tree/main/0197-rising-temperature/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Shashankrai30/LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Shashankrai30/LeetCode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
